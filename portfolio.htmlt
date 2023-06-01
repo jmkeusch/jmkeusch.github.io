@@ -27,7 +27,7 @@
     
     <h2> Favorite Food </h2>
     <h4> Beef bourguignon </h4>
-    <p><img src="https://somuchfoodblog.com/wp-content/uploads/2022/11/beef-bourguinon7.jpg.webp" alt="Beef bourguignon" style="float:left">
+    <p><img src="https://somuchfoodblog.com/wp-content/uploads/2022/11/beef-bourguinon7.jpg.webp" alt="Beef bourguignon" style="float:left;widgth:142px;height:142px;">
         Following our theme, beef bourguignon is also a French-American style dish featuring beef and vegetables braised in a red wine-based stew. It's an amazing dish to serve in the fall and winter
         with excellent flavor that will fill the house with rich aromas. It can be served over mashed potatoes or egg noodles and goes great with the wine you used in the stew!</p>
 
@@ -46,7 +46,10 @@
         <th> A young man commits a crime and faces the consequences of his actions </th>
        </tr> 
       <tr>
-        <th> 
+        <th> Destiny Disrupted </th>
+        <th> <img src="https://images.booksense.com/images/271/272/9781433272271.jpg">
+        <th> Tamim Ansary </th>
+        <th> Historian Tamim Ansary explains the history of the Islamic world from antiquity to modern day, conveying historical context and cultural background for a Western audience </th> 
       </table>
       
   </body>
