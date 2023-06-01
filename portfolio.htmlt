@@ -27,7 +27,7 @@
     
     <h2> Favorite Food </h2>
     <h4> Beef bourguignon </h4>
-    <p><img src="https://somuchfoodblog.com/wp-content/uploads/2022/11/beef-bourguinon7.jpg.webp" alt="Beef bourguignon" style="float:left;widgth:142px;height:142px;">
+    <p><img src="https://somuchfoodblog.com/wp-content/uploads/2022/11/beef-bourguinon7.jpg.webp" alt="Beef bourguignon" style="float:left">
         Following our theme, beef bourguignon is also a French-American style dish featuring beef and vegetables braised in a red wine-based stew. It's an amazing dish to serve in the fall and winter
         with excellent flavor that will fill the house with rich aromas. It can be served over mashed potatoes or egg noodles and goes great with the wine you used in the stew!</p>
 
@@ -53,6 +53,7 @@
       </tr>
       <tr>
         <td> Harry Potter and the Half-Blood Prince </td>
+        <td> <img src="https://media.harrypotterfanzone.com/half-blood-prince-uk-childrens-edition-2014-700x0-c-default.jpg"
        </tr>
       </table>
       
